@@ -20,6 +20,8 @@ set showtabline=2
 set noshowmode 
 set t_Co=256
 
+set mouse=
+
 
 set numberwidth=3
 set relativenumber
